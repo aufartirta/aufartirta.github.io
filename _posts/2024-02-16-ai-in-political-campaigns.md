@@ -33,5 +33,5 @@ Recognizing the ethical and social implications of AI, Indonesia has taken steps
 
 While these guidelines are a significant start, ongoing dialogue and development are essential to ensure they remain relevant and effective in addressing the complexities of AI applications in political campaigning and beyond. Engaging with all stakeholders, including AI professionals, computer ethicists, political actors, and creative professionals, will be crucial in refining and expanding these guidelines to cover the nuanced ethical landscapes AI continues to create.
 
-<h2>Conclusion<h2/>
+<h2>Conclusion</h2>
 The ethical landscape of using AI in presidential campaign media is complex and multifaceted. As illustrated by Indonesia’s presidential election case, it necessitates a careful balance between leveraging technological advancements for political engagement and safeguarding ethical principles such as authenticity, fairness, transparency, respect for labour, and privacy. Establishing robust ethical frameworks and working together with all stakeholders is essential to navigate these challenges effectively. Only through such collaborative efforts can the benefits of AI be harnessed in a manner that upholds the integrity of the democratic process and respects the contributions of creative communities.

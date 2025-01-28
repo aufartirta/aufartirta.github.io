@@ -19,13 +19,18 @@ But, is it fair?
 While the efficiency of AI is impressive, the ethical challenges it introduces are just as significant. Some of the key issues include:
 
 <h3>Authenticity and Misrepresentation</h3>
-Using AI to soften the public personas of contentious figures into ‘cute’ and ‘cuddly’ versions is seriously misleading. Such practices go beyond mere aesthetic purposes and touch on deeper concerns about honesty, transparency, and the integrity of the democratic process. This manipulation can distort public perception, masking serious allegations and diverting attention from substantive policy discussions. It emphazize the need for ethical guidelines that prevent the whitewashing of candidates’ histories and ensure that AI-generated media serves to inform rather than deceive voters. Without this, we risk creating a political reality shaped more by algorithms than by facts.
+Using AI to soften the public personas of contentious figures into ‘cute’ and ‘cuddly’ versions is seriously misleading. Such practices go beyond mere aesthetic purposes and touch on deeper concerns about honesty, transparency, and the integrity of the democratic process.  
+
+This manipulation can distort public perception, masking serious allegations and diverting attention from substantive policy discussions. It emphazize the need for ethical guidelines that prevent the whitewashing of candidates’ histories and ensure that AI-generated media serves to inform rather than deceive voters. Without this, we risk creating a political reality shaped more by algorithms than by facts.
 
 <h3>Transparency and Accountability</h3>
-The use of AI-generated images in Indonesian politics demands for transparency regarding the origins of campaign materials. Voters must be informed when content is AI-generated, so they can make better judgments about the information presented. For example, by knowing that certain images are AI-generated, voters can take into account factors like potential biases in the algorithms used, or the lack of human creativity and intentionality in the design process. Additionally, accountability mechanisms must be in place to address any misuse of AI in campaign media, ensuring ethical standards are upheld.
+The use of AI-generated images in Indonesian politics demands for transparency regarding the origins of campaign materials. Voters must be informed when content is AI-generated, so they can make better judgments about the information presented. For example, by knowing that certain images are AI-generated, voters can take into account factors like potential biases in the algorithms used, or the lack of human creativity and intentionality in the design process.  
+
+Additionally, accountability mechanisms must be in place to address any misuse of AI in campaign media, ensuring ethical standards are upheld.
 
 <h3>Impact on Creative Workers</h3>
 This concern was raised by illustrators and creative professionals, since it touches on broader aspect regarding labour rights and the valuation of human creativity. The increasing use of AI-generated images raises discourses about the intrinsic value of human creativity and the potential consequences of its devaluation. AI-generated content, while innovative and cost-effective, should not undermine the economic and professional interests of artists and illustrators.  
+
 AI doesn’t have to be a zero-sum game for creativity. There’s an opportunity here to find balance. By working with creative communities, we can develop fair models for compensation and attribution. AI should be seen as a tool to enhance, not replace, the creative process.
 
 <h2>The Problematic Usage of AI for Political Campaign</h2>

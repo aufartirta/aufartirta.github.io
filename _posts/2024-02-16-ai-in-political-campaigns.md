@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Artificial Influence: Navigating the Ethical Terrain of AI-Enhanced Political Campaigns
 tags: Blog AI
 ---

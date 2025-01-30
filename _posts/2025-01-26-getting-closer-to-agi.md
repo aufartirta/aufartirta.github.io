@@ -41,11 +41,11 @@ This brings us closer to AGI because general intelligence requires deep reasonin
 While neither Operator nor DeepSeek-R1 is AGI, they represent important milestones. Here’s how:
 
 ### Bridging the Gap Between Narrow AI and Adaptability
-Operator and DeepSeek-R1 demonstrate multi-step task execution, an ability that AGI will need.
+One of the major obstacles to AGI is moving beyond narrow AI that specializes in specific tasks. Operator and DeepSeek-R1 demonstrate multi-step task execution, which is essential for AGI. This means AI can now handle increasingly complex workflows, reducing human intervention in task execution. This transition from simple automation to more adaptive intelligence is a significant step toward achieving AGI.
 ### Real-World Interaction 
-Operator’s ability to take actions online moves AI beyond static models, making it more autonomous.
+AGI requires the ability to interact dynamically with its environment, much like humans do. Operator’s capability to take real-world actions, such as booking flights or handling online transactions, shifts AI from static response models to active participants. This autonomy is crucial for AGI development, as AI must learn to function independently in an unpredictable world.
 ### Improved Logical & Mathematical Thinking 
-DeepSeek-R1 shows that AI can reason more effectively, not just predict outcomes based on training data.
+One of the core aspects of AGI is reasoning ability, which enables AI to make decisions beyond pattern recognition. DeepSeek-R1's advancements in logic and mathematics show that AI can engage in structured thinking, solving problems with higher accuracy and efficiency. This is a crucial step toward AGI, where AI must not only process data but understand and apply reasoning across different domains.
 
 Together, these developments suggest that AI is not just getting smarter but also more useful—bringing us one step closer to the versatile intelligence that defines AGI.
 

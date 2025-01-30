@@ -11,7 +11,7 @@ In today’s fast-paced digital age, the merging of artificial intelligence (AI)
 
 <!--more-->
 
-<h2>The Ethical Dilemma of the 2024 Presidential Election in Indonesia</h2>
+## The Ethical Dilemma of the 2024 Presidential Election in Indonesia
 
 The 2024 Indonesian presidential campaign presents a complex case in the ethical discourse on AI usage in a political context. One candidate’s campaign team has fully embraced AI to generate media, which raises serious questions about ethics and intent. A clear example, reimagining **a controversial figure** in an overly positive light isn’t just creative -- it’s manipulative. This is not just about clever marketing; it's about the integrity of democracy.
 

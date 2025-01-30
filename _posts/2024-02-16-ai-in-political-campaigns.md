@@ -3,6 +3,7 @@ layout: articles
 title: "Artificial Influence: Navigating the Ethical Terrain of AI-Enhanced Political Campaigns"
 toc: true
 key: 20240216
+comments: true
 tags: Blog AI
 ---
 

@@ -100,9 +100,11 @@ AGI remains a distant goal, but advancements like Operator and DeepSeek-R1 show 
 
 The key question isn’t just whether we’re getting closer to AGI, but how we prepare for the shifts AI will bring.
 
+<a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}%20-%20{{ page.author | uri_escape }}%0A{{ page.url | absolute_url | uri_escape }}" 
+   target="_blank">
+   Tweet
+</a>
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" 
-   class="twitter-share-button" 
-   data-show-count="false">Tweet</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 

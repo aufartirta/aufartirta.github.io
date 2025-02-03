@@ -4,6 +4,7 @@ title: "Are We Getting Closer to AGI?"
 toc: true
 key: 20250126
 tags: Blog AI
+sharing: true
 ---
 Artificial General Intelligence (AGI) has long been the holy grail of AI development—the point where machines can think, learn, and adapt across multiple domains, just like humans. While AGI is still a work in progress, recent advancements suggest we’re moving a little closer.  
 
@@ -100,16 +101,7 @@ AGI remains a distant goal, but advancements like Operator and DeepSeek-R1 show 
 
 The key question isn’t just whether we’re getting closer to AGI, but how we prepare for the shifts AI will bring.
 
-<a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}%20-%20{{ page.author | uri_escape }}%0A{{ page.url | absolute_url | uri_escape }}" 
-   target="_blank">
-   Tweet
-</a>
 
-
-
-<a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}%20-%20{{ page.author | uri_escape }}%0A{{ page.url | absolute_url | uri_escape }}"
-   class="twitter-share-button" 
-   data-show-count="false">Tweet</a>
 
 
 

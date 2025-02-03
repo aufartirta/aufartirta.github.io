@@ -99,3 +99,9 @@ I will elaborate more about what I think would happen to 'repititive jobs' in th
 AGI remains a distant goal, but advancements like Operator and DeepSeek-R1 show we’re making real progress. As AI becomes more autonomous and capable, its impact will extend beyond technology—reshaping industries, workflows, and jobs.
 
 The key question isn’t just whether we’re getting closer to AGI, but how we prepare for the shifts AI will bring.
+
+
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=Hello%20world"
+  data-size="large">
+Tweet</a>

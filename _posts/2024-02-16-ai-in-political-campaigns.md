@@ -4,6 +4,7 @@ title: "Artificial Influence: Navigating the Ethical Terrain of AI-Enhanced Poli
 toc: true
 key: 20240216
 tags: Blog AI
+sharing: true
 ---
 
 In today’s fast-paced digital age, the merging of artificial intelligence (AI) and political campaigning has brought about both exciting possibilities and significant ethical concerns. The use of AI to create presidential campaign media, such as posters, illustrations, and cartoonized candidates, offers innovative ways to connect with audiences. However, these advancements come with serious ethical baggage that we can’t afford to ignore. Integrating AI into political campaigns is like a double-edged sword: it can both boost engagement potential while risking to plunge us into murky waters of manipulation. With technology reshaping the political landscape, it’s crucial to dive deeper into the ethical questions surrounding this issue.

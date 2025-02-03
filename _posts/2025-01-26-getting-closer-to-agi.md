@@ -54,24 +54,17 @@ Together, these developments suggest that AI is not just getting smarter but als
 Despite these breakthroughs, true AGI is far from reality. Even the most advanced AI today is still missing key human-like capabilities, including:
 
 ### Creativity & Intuition
-AI can generate impressive outputs, but it lacks true innovation or abstract thinking.
+While AI can generate highly realistic images, text, and even music, it does so by predicting patterns based on existing data rather than original thought. True creativity requires the ability to break from patterns, take inspiration from emotions, and produce entirely new concepts—something AI currently lacks. Intuition, similarly, is an instinctual ability that humans develop from experience, whereas AI lacks the ability to make decisions based on 'gut feelings' or abstract reasoning.
 ### Adaptability Across Domains
-AGI needs to transition seamlessly across different fields and tasks. Today’s AI still specializes in narrow domains.
+AGI must be able to seamlessly transition between different fields, applying knowledge from one domain to another without specific retraining. Current AI systems, however, remain confined to specialized tasks: a model trained for image recognition cannot autonomously perform financial forecasting without significant retraining. This limitation highlights the gap between today’s AI, which excels in narrow applications, and true AGI, which would function more like a human-level generalist.
 ### Self-Awareness & Intentionality 
-Machines execute tasks based on input, but they don’t think for themselves.
+One of the fundamental traits of AGI is self-awareness—the ability to understand one’s own existence, decisions, and motivations. Current AI systems do not have consciousness or intrinsic goals; they only execute commands based on training data and pre-defined objectives. Unlike humans, who make decisions based on emotions, experience, and self-reflection, AI lacks true intentionality—it does not have independent desires or the ability to set its own objectives beyond what it is programmed to achieve.
 
 So while AI is improving rapidly, the gap between where we are now and true human-like intelligence remains significant.
 
 ## Key Challenges on the Road to AGI
 
-Even as we move closer, several challenges remain:
-
-### Safety & Ethical Concerns 
-As AI becomes more autonomous, how do we ensure it aligns with human values?
-### Regulation & Governance
-Who controls AI, and how do we prevent misuse?
-### Computational Limitations
-AGI requires massive computing power, which today’s hardware may not yet support.
+Even as we move closer, several challenges remain. Safety and ethical concerns are at the forefront—how do we ensure AI aligns with human values as it becomes more autonomous? Regulation and governance are also crucial; determining who controls AI and how to prevent misuse is an ongoing debate. Additionally, computational limitations pose a significant hurdle, as AGI requires vast computing power, which current hardware may not yet support.  
 
 These are critical questions that researchers and policymakers must address before AGI can become a reality.
 
@@ -81,15 +74,13 @@ While we’re not at AGI yet, developments like Operator and DeepSeek-R1 show th
 
 But as AI advances, what does this mean for jobs?
 
-## AI and the Workforce: Should We Be Worried?
+### AI and the Workforce: Should We Be Worried?
 
-AI’s growing capabilities raise concerns about job displacement, especially in industries that rely on repetitive, rule-based tasks. However, history suggests that technology doesn’t just eliminate jobs—it transforms them.
+AI’s growing capabilities raise concerns about job displacement, especially in industries that rely on repetitive, rule-based tasks. However, history suggests that technology doesn’t just eliminate jobs: it transforms them.
 
-AI will replace some jobs: Data entry, administrative tasks, and customer service roles could see major automation.New roles will emerge: AI trainers, system auditors, and AI ethics specialists are growing fields.Human involvement is still needed: AI requires oversight, and many roles involving creativity, emotional intelligence, and complex decision-making remain safe.
+I personally think there are some jobs that AI will replace, while at the same time, new roles around this technology will emerge. Despite the advancement, human involvement in AI technology is still needed. Instead of completely replacing the workforce, AI is likely to shift work toward more specialized, high-value tasks, creating new opportunities while automating redundant ones.
 
-Instead of completely replacing the workforce, AI is likely to shift work toward more specialized, high-value tasks, creating new opportunities while automating redundant ones.
-
-Read more about how AI is reshaping jobs and industries [here]()
+I will elaborate more about what I think would happen to 'repititive jobs' in the age of AI [here]().
 
 ## Final Thoughts
 

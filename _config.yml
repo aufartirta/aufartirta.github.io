@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : aufartirta.github.io
+url     : https://aufartirta.github.io/
 baseurl : # does not include hostname
 title   : Aufar Tirta
 description: > # this means to ignore newlines until "Language & timezone"

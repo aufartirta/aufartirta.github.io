@@ -22,7 +22,7 @@
     {%- include snippets/get-locale-string.html key='EMAIL_ME' -%}
     {%- if _author.email -%}
       <li title="{{ _locale_string_email }}">
-      <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" target="_blank">
+      <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" target="_blank" aria-label="Send me an email.">
         <i class="fas fa-envelope"></i>
       </a>
     {%- endif -%}
@@ -94,7 +94,7 @@
 
     {%- if _author.linkedin -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
-        <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
+        <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank" aria-label="Follow me on Linkedin.">
           <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
         </a>
       </li>
@@ -102,7 +102,7 @@
 
     {%- if _author.github -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Github' }}">
-        <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
+        <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank" aria-label="Follow me on Github.">
           <div class="icon">{%- include svg/icon/social/github.svg -%}</div>
         </a>
       </li>

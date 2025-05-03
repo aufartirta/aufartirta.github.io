@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://aufartirta.github.io/</loc>
     <lastmod>2025-05-03T23:04:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://aufartirta.github.io/posts/</loc>
     <lastmod>2025-05-03T23:04:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tiramisu/</loc>
+    <loc>https://aufartirta.github.io/posts/tiramisu/</loc>
     <lastmod>2025-05-03T23:04:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/banana-bread/</loc>
+    <loc>https://aufartirta.github.io/posts/banana-bread/</loc>
     <lastmod>2025-05-03T21:25:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://aufartirta.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://aufartirta.github.io/tags/</loc>
   </url>
 </urlset>

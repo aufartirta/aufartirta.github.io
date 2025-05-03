@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://aufartirta.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 May 2025 21:25:18 +0200</lastBuildDate><atom:link href="https://aufartirta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banana Bread</title>
+      <link>https://aufartirta.github.io/posts/banana-bread/</link>
+      <pubDate>Sat, 03 May 2025 21:25:18 +0200</pubDate>
+      
+      <guid>https://aufartirta.github.io/posts/banana-bread/</guid>
+      
+      <description>&lt;h1 id=&#34;banana-bread&#34;&gt;Banana Bread&lt;/h1&gt;
+&lt;p&gt;This is a banana bread recipe.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

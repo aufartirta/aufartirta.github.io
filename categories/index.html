@@ -77,6 +77,20 @@
 
     
     
+      <script async src="https://www.googletagmanager.com/gtag/js?id=GTM-WCTTZM4V"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'GTM-WCTTZM4V');
+        }
+      </script>
     
 </head>
 <body data-theme = "light" class="notransition">

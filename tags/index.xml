@@ -2,9 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aufar&#39;s Recipe Compilation</title>
-    <link>https://aufartirta.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Aufar&#39;s Recipe Compilation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aufartirta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 17:09:47 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pasta</title>
+      <link>http://localhost:1313/tags/pasta/</link>
+      <pubDate>Thu, 15 May 2025 17:09:47 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/pasta/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Recipe</title>
+      <link>http://localhost:1313/tags/recipe/</link>
+      <pubDate>Thu, 15 May 2025 17:09:47 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/recipe/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dessert</title>
+      <link>http://localhost:1313/tags/dessert/</link>
+      <pubDate>Sat, 03 May 2025 23:04:34 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/dessert/</guid>
+      
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

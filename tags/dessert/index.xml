@@ -1,81 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aufar&#39;s Recipe Compilation</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Aufar&#39;s Recipe Compilation</description>
+    <title>Dessert on Aufar&#39;s Recipe Compilation</title>
+    <link>http://localhost:1313/tags/dessert/</link>
+    <description>Recent content in Dessert on Aufar&#39;s Recipe Compilation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 17:09:47 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aglio E Olio</title>
-      <link>http://localhost:1313/posts/aglio-e-olio/</link>
-      <pubDate>Thu, 15 May 2025 17:09:47 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/aglio-e-olio/</guid>
-      
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/aglioolio.jpeg&#34; alt=&#34;Aglio e Olio&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Ingredient&lt;/th&gt;
-          &lt;th&gt;Amount&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Pasta&lt;/td&gt;
-          &lt;td&gt;~70 g per person&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Garlic&lt;/td&gt;
-          &lt;td&gt;3-4 cloves&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Chili&lt;/td&gt;
-          &lt;td&gt;2-3&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Olive Oil&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Salt&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Black Pepper&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Parsley&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Butter&lt;/td&gt;
-          &lt;td&gt;~20g (optional)&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Slice the garlic thinly. If you are using chili and parsley, chop them as well.&lt;/li&gt;
-&lt;li&gt;Add a generous amount of olive oil to a pan and place the garlic slices in while the oil is still cold. Let them infuse gently as the oil warms up.&lt;/li&gt;
-&lt;li&gt;In a separate pot, boil the pasta in salted water. Be careful not to overcook it.&lt;/li&gt;
-&lt;li&gt;Slowly increase the heat under the garlic pan and sauté the garlic until it becomes fragrant. Add the chopped chili.&lt;/li&gt;
-&lt;li&gt;To prevent the garlic from browning too quickly, add a splash of the pasta water.&lt;/li&gt;
-&lt;li&gt;Lower the heat and transfer the cooked pasta directly into the pan. Toss everything together thoroughly. If the pasta feels too dry, add more pasta water, a little at a time.&lt;/li&gt;
-&lt;li&gt;Finish withblack pepper and chopped parsley to taste&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;tips&#34;&gt;Tips&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Add the butter to the garlic and oil for a richer, creamier flavor.&lt;/li&gt;
-&lt;li&gt;Customize with toppings like sautéed mushrooms, blistered cherry tomatoes, or shrimp for extra protein and texture.&lt;/li&gt;
-&lt;/ul&gt;</description>
-      
-    </item>
-    
+    <lastBuildDate>Sat, 03 May 2025 23:04:34 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tiramisu</title>
       <link>http://localhost:1313/posts/tiramisu/</link>

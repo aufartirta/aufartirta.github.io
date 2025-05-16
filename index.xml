@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aufar&#39;s Recipe Compilation</title>
-    <link>http://localhost:1313/</link>
+    <link>https://aufartirta.github.io/</link>
     <description>Recent content on Aufar&#39;s Recipe Compilation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 17:09:47 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 May 2025 17:09:47 +0200</lastBuildDate><atom:link href="https://aufartirta.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aglio E Olio</title>
-      <link>http://localhost:1313/posts/aglio-e-olio/</link>
+      <link>https://aufartirta.github.io/posts/aglio-e-olio/</link>
       <pubDate>Thu, 15 May 2025 17:09:47 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/aglio-e-olio/</guid>
+      <guid>https://aufartirta.github.io/posts/aglio-e-olio/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/aglioolio.jpeg&#34; alt=&#34;Aglio e Olio&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://aufartirta.github.io/images/aglioolio.jpeg&#34; alt=&#34;Aglio e Olio&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -78,10 +78,10 @@
     
     <item>
       <title>Tiramisu</title>
-      <link>http://localhost:1313/posts/tiramisu/</link>
+      <link>https://aufartirta.github.io/posts/tiramisu/</link>
       <pubDate>Sat, 03 May 2025 23:04:34 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/tiramisu/</guid>
+      <guid>https://aufartirta.github.io/posts/tiramisu/</guid>
       
       <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
 &lt;table&gt;
@@ -158,12 +158,12 @@
     
     <item>
       <title>Banana Bread</title>
-      <link>http://localhost:1313/posts/banana-bread/</link>
+      <link>https://aufartirta.github.io/posts/banana-bread/</link>
       <pubDate>Sat, 03 May 2025 21:25:18 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/banana-bread/</guid>
+      <guid>https://aufartirta.github.io/posts/banana-bread/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bananabread.jpeg&#34; alt=&#34;Banana Bread&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://aufartirta.github.io/images/bananabread.jpeg&#34; alt=&#34;Banana Bread&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;

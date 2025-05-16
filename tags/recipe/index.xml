@@ -163,7 +163,8 @@
       
       <guid>http://localhost:1313/posts/banana-bread/</guid>
       
-      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bananabread.jpeg&#34; alt=&#34;Banana Bread&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
